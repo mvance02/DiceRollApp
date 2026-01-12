@@ -1,0 +1,14 @@
+/Users/matthewvance/RiderProjects/DiceRollApp/bin/Debug/net10.0/DiceRollApp
+/Users/matthewvance/RiderProjects/DiceRollApp/bin/Debug/net10.0/DiceRollApp.deps.json
+/Users/matthewvance/RiderProjects/DiceRollApp/bin/Debug/net10.0/DiceRollApp.runtimeconfig.json
+/Users/matthewvance/RiderProjects/DiceRollApp/bin/Debug/net10.0/DiceRollApp.dll
+/Users/matthewvance/RiderProjects/DiceRollApp/bin/Debug/net10.0/DiceRollApp.pdb
+/Users/matthewvance/RiderProjects/DiceRollApp/obj/Debug/net10.0/DiceRollApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewvance/RiderProjects/DiceRollApp/obj/Debug/net10.0/DiceRollApp.AssemblyInfoInputs.cache
+/Users/matthewvance/RiderProjects/DiceRollApp/obj/Debug/net10.0/DiceRollApp.AssemblyInfo.cs
+/Users/matthewvance/RiderProjects/DiceRollApp/obj/Debug/net10.0/DiceRollApp.csproj.CoreCompileInputs.cache
+/Users/matthewvance/RiderProjects/DiceRollApp/obj/Debug/net10.0/DiceRollApp.dll
+/Users/matthewvance/RiderProjects/DiceRollApp/obj/Debug/net10.0/refint/DiceRollApp.dll
+/Users/matthewvance/RiderProjects/DiceRollApp/obj/Debug/net10.0/DiceRollApp.pdb
+/Users/matthewvance/RiderProjects/DiceRollApp/obj/Debug/net10.0/DiceRollApp.genruntimeconfig.cache
+/Users/matthewvance/RiderProjects/DiceRollApp/obj/Debug/net10.0/ref/DiceRollApp.dll
